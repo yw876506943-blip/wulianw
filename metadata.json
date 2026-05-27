@@ -1,0 +1,8 @@
+{
+  "name": "智能物联网平台 (IoT Platform)",
+  "description": "面向工业生产环境的物联网设备集中管理平台，支持区域、产线、工位设备的层级管理和实时监控。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
